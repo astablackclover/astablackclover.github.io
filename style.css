@@ -44,6 +44,10 @@ section h2 {
     margin-top: 0;
 }
 
+.skills-section {
+    margin-bottom: 1.5rem;
+}
+
 .github-project h3 a {
     color: #333;
     text-decoration: none;
@@ -55,10 +59,12 @@ section h2 {
 
 footer {
     text-align: center;
-    padding: 1rem 0;
+    padding: 0.5rem 0;
     background: #333;
     color: #fff;
     position: fixed;
     bottom: 0;
     width: 100%;
+    font-size: 0.8rem;
 }
+
